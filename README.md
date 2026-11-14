@@ -36,19 +36,19 @@ Learning Design, Scoping and Planning – initial design decisions, learning out
 [View PDF](https://github.com/MirandaELT/solar-system-storyline/blob/main/Solar%20System%20Learning%20Design%20Scoping%20and%20Planning.pdf)
 
 Screen Plan – detailed screen-level content, interactions, navigation and assessment design
-View PDF
+[View PDF](https://github.com/MirandaELT/solar-system-storyline/blob/main/Solar%20System%20Screenplan.pdf)
 
 Story View – visual overview of the module structure and navigation
-View PDF
+[View PDF](https://github.com/MirandaELT/solar-system-storyline/blob/main/Solar%20System%20Story%20View.pdf)
 
 Flowchart – diagram illustrating the learning pathway
-View image
+[View image](https://github.com/MirandaELT/solar-system-storyline/blob/main/Solar%20System%20Flow%20Chart.png)
 
 Wireframe – visual planning of the module layout and learning experience
-View PDF
+[View PDF](https://github.com/MirandaELT/solar-system-storyline/blob/main/Solar%20System%20Wireframe.pdf)
 
 Development and Evaluation – design adaptations, technical challenges, accessibility testing, user feedback and reflective evaluation
-View PDF
+[View PDF](https://github.com/MirandaELT/solar-system-storyline/blob/main/The%20Solar%20System%20Development%20and%20Evaluation.pdf)
 
 ## Tools Used
 
