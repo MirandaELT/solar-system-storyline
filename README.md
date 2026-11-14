@@ -1,2 +1,75 @@
 # solar-system-storyline
 Solar System eLearning module developed in Articulate Storyline, with supporting instructional design documentation.
+The Solar System | Articulate Storyline
+
+The Solar System: Interactive eLearning Module
+
+▶️ Experience the eLearning module
+
+Project Overview
+
+This project showcases a self-guided, interactive eLearning module developed in Articulate Storyline 360. The module transforms text-heavy source material about the Solar System into an engaging digital learning experience through interactive content, learner-controlled navigation and assessment activities.
+
+The project was developed using a 14-day Storyline trial to demonstrate instructional design, eLearning development, accessibility and evaluation skills.
+
+Context & Audience
+
+The module was designed as a learning resource for adults exploring the Solar System, including those preparing to teach the topic. Learners may have varying levels of prior subject knowledge and digital confidence, and some may speak English as an additional language.
+
+The design therefore prioritises clear language, manageable sections, visual explanations and opportunities for learners to explore content at their own pace.
+
+Design Approach
+
+The module is organised into five topics: The Sun, The Eight Planets, Dwarf Planets, Moons, and Comets and Asteroids.
+
+Learners begin with an introduction and learning outcomes before accessing a clickable topic menu. They can follow the recommended sequence or select individual topics according to their learning needs.
+
+The learning experience incorporates labelled graphics, tabs, interactive layers, flip cards, optional information markers and a five-question final assessment.
+
+Accessibility considerations informed the design and development process, including keyboard navigation, screen reader compatibility, alternative text, focus order and assessment interaction choices.
+
+The project also involved iterative development, user testing and evaluation, with design decisions adapted in response to technical constraints, accessibility requirements and feedback.
+
+What's Included
+
+This repository contains supporting instructional design and development artefacts:
+
+Learning Design, Scoping and Planning – initial design decisions, learning outcomes, audience considerations and proposed learning structure
+View PDF
+
+Screen Plan – detailed screen-level content, interactions, navigation and assessment design
+View PDF
+
+Story View – visual overview of the module structure and navigation
+View PDF
+
+Flowchart – diagram illustrating the learning pathway
+View image
+
+Wireframe – visual planning of the module layout and learning experience
+View PDF
+
+Development and Evaluation – design adaptations, technical challenges, accessibility testing, user feedback and reflective evaluation
+View PDF
+
+Tools Used
+
+Articulate Storyline 360 – eLearning development
+
+Windows Narrator – screen reader accessibility testing
+
+ChatGPT – design exploration, technical troubleshooting and content refinement
+
+Netlify – hosting the published module
+
+Delivery Note
+
+The module is published as a browser-based interactive learning experience. It was developed as a portfolio project rather than implemented with a live learner cohort.
+
+The development and evaluation document records the testing undertaken, design refinements and outstanding quality assurance issues identified after publication.
+
+What I'd Do Next
+
+Given renewed access to Storyline, I would resolve the outstanding assessment feedback, navigation and hyperlink issues, complete further end-to-end accessibility and functionality testing, and republish the module.
+
+I would also introduce short formative checks throughout the learning experience and a glossary of key astronomical terminology to provide additional support for learners.
