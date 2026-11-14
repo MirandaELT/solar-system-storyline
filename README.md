@@ -62,7 +62,9 @@ Development and Evaluation – design adaptations, technical challenges, accessi
   [View screenshot](./screenshots/mcq-assessment.png)
 
 - Quiz results and pass feedback  
-  [View screenshot](./screenshots/quiz-results-pass.png)## Tools Used
+  [View screenshot](./screenshots/quiz-results-pass.png)
+
+## Tools Used
 
 Articulate Storyline 360 – eLearning development
 
