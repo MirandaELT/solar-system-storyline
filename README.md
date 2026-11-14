@@ -50,7 +50,19 @@ Wireframe – visual planning of the module layout and learning experience
 Development and Evaluation – design adaptations, technical challenges, accessibility testing, user feedback and reflective evaluation
 [View PDF](https://github.com/MirandaELT/solar-system-storyline/blob/main/The%20Solar%20System%20Development%20and%20Evaluation.pdf)
 
-## Tools Used
+## Screenshots
+
+- Module overview and topic navigation  
+  [View screenshot](./screenshots/module-overview.png)
+
+- Interactive planets tab  
+  [View screenshot](./screenshots/planets-tab.png)
+
+- Multiple-choice assessment  
+  [View screenshot](./screenshots/mcq-assessment.png)
+
+- Quiz results and pass feedback  
+  [View screenshot](./screenshots/quiz-results-pass.png)## Tools Used
 
 Articulate Storyline 360 – eLearning development
 
