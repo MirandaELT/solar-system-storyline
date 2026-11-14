@@ -33,7 +33,7 @@ The project also involved iterative development, user testing and evaluation, wi
 This repository contains supporting instructional design and development artefacts:
 
 Learning Design, Scoping and Planning – initial design decisions, learning outcomes, audience considerations and proposed learning structure
-View PDF
+[View PDF](https://github.com/MirandaELT/solar-system-storyline/blob/main/Solar%20System%20Learning%20Design%20Scoping%20and%20Planning.pdf)
 
 Screen Plan – detailed screen-level content, interactions, navigation and assessment design
 View PDF
