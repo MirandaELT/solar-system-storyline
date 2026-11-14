@@ -1,8 +1,7 @@
 # solar-system-storyline
-Solar System eLearning module developed in Articulate Storyline, with supporting instructional design documentation.
-The Solar System | Articulate Storyline
+The Solar System | Articulate Storyline 360
 
-The Solar System: Interactive eLearning Module
+The Solar System: Interactive eLearning Module (Articulate Storyline 360 Prototype)
 
 ▶️ Experience the eLearning module
 
