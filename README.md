@@ -1,11 +1,10 @@
-# solar-system-storyline
-The Solar System | Articulate Storyline 360
+# The Solar System | Articulate Storyline 360
 
-The Solar System: Interactive eLearning Module (Articulate Storyline 360 Prototype)
+## The Solar System: Interactive eLearning Module (Articulate Storyline 360 Prototype)
 
-▶️ Experience the eLearning module
+▶️ [Experience the eLearning module](https://imaginative-hummingbird-06ceb2.netlify.app/)
 
-Project Overview
+## Project Overview
 
 This project showcases a self-guided, interactive eLearning module developed in Articulate Storyline 360. The module transforms text-heavy source material about the Solar System into an engaging digital learning experience through interactive content, learner-controlled navigation and assessment activities.
 
